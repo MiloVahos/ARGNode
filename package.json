@@ -1,0 +1,25 @@
+{
+  "name": "argnode",
+  "version": "1.0.0",
+  "description": "Artificial Reads Generator in NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloVahos/ARGNode.git"
+  },
+  "keywords": [
+    "Reads",
+    "Bioinformatics",
+    "Node"
+  ],
+  "author": "Camilo Vahos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiloVahos/ARGNode/issues"
+  },
+  "homepage": "https://github.com/MiloVahos/ARGNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
